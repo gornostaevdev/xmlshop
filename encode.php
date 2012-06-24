@@ -6,6 +6,7 @@
  * @return String          Строка с результатом Шифрования|Дешифрования
  * @author runcore
  */
+// Не актуально.
 function dsCrypt($input,$decrypt=false) {
 	$o = $s1 = $s2 = array(); // Arrays for: Output, Square1, Square2
 	// формируем базовый массив с набором символов
