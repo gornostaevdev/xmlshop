@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items count="1">
+<item id="0" cat="e-book"  title="Kindle" desc="The all-new Kindle - Lighter, smaller, faster" photo="http://goo.gl/qmupQ" price="4050" stock="42" />
+<item id="1" cat="e-book" title="Kindle Touch" desc="Simple-to-use touchscreen, with audio and built-in Wi-Fi" photo="http://goo.gl/6vl9n" price="4350" stock="4" />
+<item id="2" cat="e-book" title="Kindle Touch 3G" desc="Top-of-the-line e-reader, with touch and free 3G wireless" photo="http://goo.gl/uQoaq" price="5200" stock="4" />
+<item id="3" cat="e-book" title="Kindle Keyboard" desc="The fouth generation Kindle is a brand-new device with tousand features." photo="http://goo.gl/Bx3bw" price="5100" stock="4" />
+<item id="4" cat="e-book" title="Kindle Fire" desc="Movies, apps, games, music, reading and more, plus Amazon's revolutionary, cloud-accelerated web browser" photo="http://goo.gl/7A3qY" price="6900" stock="4" />
+<item id="5" cat="e-book" subcat="accessory" title="Kindle Cover" desc="Furry" photo="http://goo.gl/AVO7N" price="1600" stock="4" />
+</items>
+
